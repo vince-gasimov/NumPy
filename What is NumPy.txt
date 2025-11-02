@@ -23,6 +23,7 @@ Scalar
 Vector
     - 1D array
     - an ordered list of elements
+    - it has either rows or columns
 
 Matric
     - 2D array
