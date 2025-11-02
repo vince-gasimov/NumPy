@@ -13,20 +13,20 @@ NumPy (Numerical Python) is the central package for scientific computing with Py
 
 The materials in this repository are structured to guide you from basic array creation to advanced array manipulation and mathematical operations.
 
-•⁠  ⁠Comparing list and array by advanced mathematical operations
-•⁠  ⁠Create Arrays from Built-in Method
-•⁠  ⁠Various Built-in Methods
-•⁠  ⁠rand & randn & randint
-•⁠  ⁠max & argmax & min & argmin
-•⁠  ⁠Concatenation of the Arrays
-•⁠  ⁠Splitting of the Array
-•⁠  ⁠Sorting of the Arrays
-•⁠  ⁠Numpy Indexing & Selection
-•⁠  ⁠Indexing & Slicing
-•⁠  ⁠Selection on a Condition
-•⁠  Broadcasting
-•⁠  Arithmetic Operations & Universal Array Functions
-•⁠  Statistical Calculations
+* ⁠Comparing list and array by advanced mathematical operations
+* ⁠Create Arrays from Built-in Method
+* Various Built-in Methods
+* rand & randn & randint
+* ⁠max & argmax & min & argmin
+* Concatenation of the Arrays
+* Splitting of the Array
+* Sorting of the Arrays
+* Numpy Indexing & Selection
+* Indexing & Slicing
+* Selection on a Condition
+* Broadcasting
+* Arithmetic Operations & Universal Array Functions
+* Statistical Calculations
 
 ## 🤝 Contributing
 
